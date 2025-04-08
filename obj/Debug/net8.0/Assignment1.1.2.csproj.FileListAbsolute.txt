@@ -1,0 +1,29 @@
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\bin\Debug\net8.0\Assignment1.1.2.exe
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\bin\Debug\net8.0\Assignment1.1.2.deps.json
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\bin\Debug\net8.0\Assignment1.1.2.runtimeconfig.json
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\bin\Debug\net8.0\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\bin\Debug\net8.0\Assignment1.1.2.pdb
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\refint\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.pdb
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\Assignment1.1.2.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\MSSA Course Notes\Assignment1.1.2\obj\Debug\net8.0\ref\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\bin\Debug\net8.0\Assignment1.1.2.exe
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\bin\Debug\net8.0\Assignment1.1.2.deps.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\bin\Debug\net8.0\Assignment1.1.2.runtimeconfig.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\bin\Debug\net8.0\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\bin\Debug\net8.0\Assignment1.1.2.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.AssemblyInfoInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.AssemblyInfo.cs
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.csproj.CoreCompileInputs.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.sourcelink.json
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\refint\Assignment1.1.2.dll
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.pdb
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\Assignment1.1.2.genruntimeconfig.cache
+F:\C# Learning\MSSA Course\Assignments\Assignment_1.1.2\obj\Debug\net8.0\ref\Assignment1.1.2.dll
