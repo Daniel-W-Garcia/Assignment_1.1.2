@@ -32,13 +32,23 @@ public class Functions
             Console.WriteLine($"Hello, your numbers ({x}, and {y}) are not equal");
         }
     }
-    
-    static double[] _data = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-    double[] _cumSum = CumulativeSumMethod(_data);
+
+    private static double[] CreateNaturalNumbers()
+    {
+        double[] naturalNumbers = new double[10];
+        for (int i = 0; i < naturalNumbers.Length; i++)
+        {
+            naturalNumbers[i] = i + 1;
+        }
+        return naturalNumbers;
+    }
+    private static double[] naturalNumberArray = CreateNaturalNumbers();
+
+    double[] _cumSum = CumulativeSumMethod(naturalNumberArray);
 
     public void PrintCumulativeSum()
     {
-        Console.WriteLine($"Hello, here are the 1st 10 natural numbers {string.Join(", ", _data)}");
+        Console.WriteLine($"Hello, here are the 1st 10 natural numbers {string.Join(", ", naturalNumberArray)}");
         
         Console.WriteLine($"Here is the running total: {string.Join(", ", _cumSum)}");
         
