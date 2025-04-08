@@ -70,4 +70,9 @@ public class UserInput
             Console.WriteLine($"Hello, your numbers ({x}, and {y}) are not equal");
         }
     }
+
+    public void CloseApplication()
+    {
+        Console.WriteLine("Thank you for using this application");
+    }
 }
